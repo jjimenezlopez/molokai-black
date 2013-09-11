@@ -1,4 +1,4 @@
-**Note:** This is a fork of molokai them from tomasr, all credit is yours. I just have made some personal changes:
+**Note:** This is a fork of [molokai](https://github.com/tomasr/molokai "Molokai") them from [tomasr](https://github.com/tomasr "tomasr"), all credit is yours. I just have made some personal changes:
  * Black background.
  * Vertical split character '|' removed, and background changed.
 
